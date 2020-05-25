@@ -1,0 +1,17 @@
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.csproj.CoreCompileInputs.cache
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.AssemblyInfoInputs.cache
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.AssemblyInfo.cs
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\CarManagement.deps.json
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\CarManagement.runtimeconfig.json
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\CarManagement.runtimeconfig.dev.json
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\CarManagement.dll
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\RabbitMQManagement.dll
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\RabbitMQManagement.pdb
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.csprojAssemblyReference.cache
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.RazorAssemblyInfo.cache
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.RazorAssemblyInfo.cs
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.RazorTargetAssemblyInfo.cache
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.csproj.CopyComplete
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\bin\Debug\netcoreapp2.2\CarManagement.pdb
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.dll
+C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\CarManagement\obj\Debug\netcoreapp2.2\CarManagement.pdb
