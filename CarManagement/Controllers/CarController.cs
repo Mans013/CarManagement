@@ -37,5 +37,12 @@ namespace CarManagement.Controllers
             return Ok(JsonConvert.SerializeObject(newCar));
         }
 
+        [Route("sell")]
+        [HttpGet]
+        public void SellRandomCar()
+        {
+            _carService.SellRandomCar();
+        }
+
     }
 }

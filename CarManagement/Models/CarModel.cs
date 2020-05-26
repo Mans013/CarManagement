@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MaintenanceManagement.Models;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
@@ -18,9 +19,6 @@ namespace CarManagement.Models
 
         [BsonElement("Brand")]
         public string Brand { get; set; }
-
-        [BsonElement("Miles")]
-        public int Miles { get; set; }
 
         [BsonElement("Weight")]
         public int Weight { get; set; }

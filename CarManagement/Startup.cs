@@ -41,6 +41,7 @@ namespace CarManagement
                 var list = new List<string>
                 {
                     "#.maintenance.#",
+                    "#.car.#",
                     "#.advertisement.#"
                 };
                 return new RabbitMQMessageHandler("localhost", "CarChamp", "carManagement", list);

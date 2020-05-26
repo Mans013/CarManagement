@@ -34,3 +34,12 @@ C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\RabbitMQManagement
 C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.AssemblyInfo.cs
 C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.dll
 C:\Users\jensb\Documents\Jaar 4\AfstuderenLight\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.pdb
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\bin\Debug\netstandard2.0\RabbitMQManagement.deps.json
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\bin\Debug\netstandard2.0\RabbitMQManagement.dll
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\bin\Debug\netstandard2.0\RabbitMQManagement.pdb
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.csprojAssemblyReference.cache
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.csproj.CoreCompileInputs.cache
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.AssemblyInfoInputs.cache
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.AssemblyInfo.cs
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.dll
+D:\Avans\Afstuderen Light\POC\CarManagement\RabbitMQManagement\obj\Debug\netstandard2.0\RabbitMQManagement.pdb
