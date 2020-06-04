@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1145
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManagement", "CarManagement\CarManagement.csproj", "{7106F39F-2A98-407D-A40B-59A1669B5C46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManagement", "CarManagement\CarManagement.csproj", "{7106F39F-2A98-407D-A40B-59A1669B5C46}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQManagement", "RabbitMQManagement\RabbitMQManagement.csproj", "{FDB8F745-89A3-4D2B-8DB3-1B0F89656E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManagementTests", "CarManagementTests\CarManagementTests.csproj", "{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{FDB8F745-89A3-4D2B-8DB3-1B0F89656E42}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FDB8F745-89A3-4D2B-8DB3-1B0F89656E42}.Release|x64.ActiveCfg = Release|x64
 		{FDB8F745-89A3-4D2B-8DB3-1B0F89656E42}.Release|x64.Build.0 = Release|x64
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Debug|x64.Build.0 = Debug|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Release|x64.ActiveCfg = Release|Any CPU
+		{D9E38DBA-1B00-4248-B9DB-2E2ABB4270E0}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
