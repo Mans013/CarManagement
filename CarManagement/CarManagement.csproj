@@ -8,9 +8,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\lib\excanvas.min.js" />
+    <None Remove="Resources\lib\jquery.flot.min.js" />
+    <None Remove="Resources\lib\jquery.min.js" />
+    <None Remove="Resources\perf.css" />
+    <None Remove="Resources\perf.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\lib\excanvas.min.js" />
+    <Resource Include="Resources\lib\jquery.flot.min.js" />
+    <Content Include="Resources\lib\jquery.min.js" />
+    <EmbeddedResource Include="Resources\perf.css" />
+    <EmbeddedResource Include="Resources\perf.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="jQuery" Version="3.5.1" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.2.7" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.4.10" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.8" />
     <PackageReference Include="MongoDB.Driver" Version="2.10.4" />
   </ItemGroup>
 

@@ -54,11 +54,11 @@
             },
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "[2.1.2, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "[2.1.2, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -66,7 +66,7 @@
             },
             "Moq": {
               "target": "Package",
-              "version": "[4.14.1, )"
+              "version": "[4.14.2, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -142,6 +142,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -161,11 +165,15 @@
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.4.10, )"
+              "version": "[1.10.8, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.10.4, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.5.1, )"
             }
           },
           "imports": [
@@ -227,15 +235,15 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[12.0.3, )"
             },
             "Polly": {
               "target": "Package",
-              "version": "[7.1.0, )"
+              "version": "[7.2.1, )"
             },
             "RabbitMQ.Client": {
               "target": "Package",
-              "version": "[5.1.0, )"
+              "version": "[6.1.0, )"
             }
           },
           "imports": [

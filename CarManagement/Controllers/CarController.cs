@@ -8,10 +8,17 @@ using CarManagement.Services;
 using CarManagement.Models;
 using Newtonsoft.Json;
 using Polly;
+using System.IO;
+using System.Net.Http;
+using System.Text;
+using System.Net.Http.Headers;
+using System.Web.Http.Cors;
+using Microsoft.AspNetCore.Html;
 
 namespace CarManagement.Controllers
 {
     [Route("api/[controller]")]
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     [ApiController]
     public class CarController : ControllerBase
     {
@@ -51,6 +58,15 @@ namespace CarManagement.Controllers
             //return Ok("Test Complete");
         }
 
+
+        [Route("stats")]
+        [HttpGet]
+        public ActionResult stats()
+        {
+            string Html = System.IO.File.ReadAllText("./Resources/results/sample.html");
+            return Content(Html, "text/html");
+        }
+
         [Route("{carId}")]
         [HttpGet]
         public ActionResult<CarModel> Get(string carId)
@@ -79,6 +95,7 @@ namespace CarManagement.Controllers
             }
             
         }
+
 
         [Route("sell")]
         [HttpGet]

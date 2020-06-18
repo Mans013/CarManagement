@@ -74,7 +74,7 @@ namespace RabbitMQManagement
         private Task<bool> HandleEvent(BasicDeliverEventArgs ea)
         {
             string messageType = Encoding.UTF8.GetString((byte[])ea.BasicProperties.Headers["MessageType"]);
-            string body = Encoding.UTF8.GetString(ea.Body);
+            string body = Encoding.UTF8.GetString(ea.Body.ToArray());
             return _callback.HandleMessageAsync(messageType, body);
         }
     }
